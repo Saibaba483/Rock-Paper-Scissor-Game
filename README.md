@@ -39,7 +39,8 @@ The winner is displayed instantly:
 
 Clone the repository:
 
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone:
+https://saibaba483.github.io/Rock-Paper-Scissor-Game/
 
 
 Open index.html in your browser.
